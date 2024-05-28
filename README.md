@@ -12,7 +12,7 @@ https://demography.dola.colorado.gov/assets/html/county.html
 
 DATA CLEANING AND MANIPULATION
 
-The data was cleaned and checked for Duplicates and Missing Values. The data integrity was ensured after it was imported into MySQL Workbench 8.0 
+The data was cleaned and checked for Duplicates and Missing Values. The data integrity was ensured after it was imported into MySQL Workbench 8.0. The data analysis process can be viewed here - https://github.com/git-ninja4/CO-motorsales/blob/main/IMP.sql
 
 SUMMARY OF ANALYSIS
 
